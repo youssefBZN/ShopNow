@@ -1,0 +1,49 @@
+#bgimg {
+
+
+
+
+   height: 750px;
+
+   background-image: url('https://previews.123rf.com/images/dimarik16/dimarik161801/dimarik16180100309/93855730-shop-display-of-new-sneakers-shoes-isolated-on-blue-background-blue-colorful-running-shoes.jpg');
+   background-repeat: no-repeat;
+   background-color: red;
+   background-size: 1500px;
+
+
+
+
+
+}
+
+.pro:hover {
+   transform: scale(1.1);
+   transition: 0.7s ease;
+
+}
+
+#Card2 {
+  flex-direction: column;
+ 
+  padding: 5px;
+  width: 900px;
+  height: auto;
+  /* background-color: aqua; */                       
+  border: 0,5px black solid;
+  box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+  margin-top: 40px;
+
+
+
+}
+#Totald {
+   border: 0,5px black solid;
+   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+   margin-right: 80px;
+   display: none;
+   width: 350px;
+   height: 300px;
+   margin-top: 40px;
+}
+
+
